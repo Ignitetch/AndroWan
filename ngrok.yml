@@ -1,0 +1,8 @@
+authtoken: 1TblbgkftVYkH7gB9gpvczH84Lx_6uw6GxW2ewQ6ztM4sdJd5
+tunnels:
+  first-app:
+    addr: 80
+    proto: http
+  second-app:
+    addr: 4444
+    proto: tcp
