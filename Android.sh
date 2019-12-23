@@ -11,7 +11,7 @@ printf "                                                                        
 sleep 10
 
 
-apt-get install gnome-terminal
+apt-get install gnome-terminal -y
 cp ngrok.yml ~/.ngrok2/
 printf " \e[189m\e[1;73m Enter the ngrok path \e[0m\n"
 echo ""
